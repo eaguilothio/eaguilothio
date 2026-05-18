@@ -34,8 +34,6 @@ Trabajo con un enfoque estructurado y orientado a problema:
 
 ## 📁 Proyectos
 
-Proyectos desarrollados durante mi formación en análisis de datos y People Analytics, con foco en problemas reales de RRHH. Cada uno incluye el proceso completo.
-
-👉 [github.com/eaguilothio](https://github.com/eaguilothio)
+Proyectos desarrollados durante mi formación en análisis de datos y People Analytics, con foco en problemas reales de RRHH y el sector hospitalario.
 
 ---
