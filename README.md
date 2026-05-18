@@ -13,7 +13,7 @@ Soy analista de datos con formación en Psicología, especializada en **People A
 Me interesa no solo lo que dicen los datos, sino el comportamiento humano detrás de ellos.
 
 Trabajo con un enfoque estructurado y orientado a problema:
-**primero entiendo el contexto, luego lo preparo, lo analizo y propongo acción.**
+**primero entiendo el contexto, luego lo preparo, lo analizo y propongo acciones.**
 
 - 🧠 Psicología aplicada al comportamiento humano
 - 👥 Especialización en People Analytics
