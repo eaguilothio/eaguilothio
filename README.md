@@ -36,6 +36,6 @@ Trabajo con un enfoque estructurado y orientado a problema:
 
 ## 📁 Proyectos
 
-Proyectos desarrollados durante mi formación en análisis de datos y People Analytics, con foco en problemas reales de RRHH.
+Proyectos enfocados en People Analytics, con foco en problemas reales de RRHH.
 
 ---
