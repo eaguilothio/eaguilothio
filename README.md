@@ -1,8 +1,9 @@
 # 👋 Soy Bet
 
-**Data Analyst | People Analytics | SQL · Python · Power BI · Excel**
+## Data Analyst · People Analytics  
+**Excel · Power BI ·  SQL · Python**
 
-🔗 [linkedin.com/in/eaguilothio-data](https://www.linkedin.com/in/eaguilothio-data)
+🔗 [LinkedIn](https://www.linkedin.com/in/eaguilothio-data)
 
 ---
 
@@ -10,11 +11,15 @@
 
 Soy analista de datos con formación en Psicología y especializada en People Analytics.
 
-Me interesa comprender no solo lo que muestran los datos, sino también el comportamiento humano que hay detrás de ellos. 
+Me interesa comprender no solo lo que muestran los datos, sino también el comportamiento humano que hay detrás de ellos.
 
-Trabajo con un enfoque estructurado y orientado a problema: primero entiendo el contexto, después preparo y analizo la información, y finalmente traduzco los hallazgos en acciones útiles para las personas y la organización.
+Trabajo con un enfoque estructurado y orientado a problema:
 
-### Mis puntos fuertes
+> Primero entiendo el contexto, después preparo y analizo la información, y finalmente traduzco los hallazgos en acciones útiles para las personas y la organización.
+
+---
+
+## 💡 Mis puntos fuertes
 
 - 🧠 Background en Psicología con interés en el análisis del comportamiento humano  
 - 👥 Especialización en People Analytics mediante formación específica y proyectos aplicados  
@@ -25,11 +30,7 @@ Trabajo con un enfoque estructurado y orientado a problema: primero entiendo el 
 
 ## 🛠️ Stack técnico
 
-| Área | Herramientas |
-|------|-------------|
-| Bases de datos | SQL (MySQL) |
-| Análisis | Python (Pandas) · Excel |
-| Visualización | Power BI |
+ Excel · Power BI · SQL (MySQL) · Python (Pandas)
 
 ---
 
