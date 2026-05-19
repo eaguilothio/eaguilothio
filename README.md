@@ -18,10 +18,10 @@ Me interesa comprender no solo lo que muestran los datos, sino también el compo
 
 Sigo un enfoque estructurado orientado a resolver problemas de negocio:
 
-Entiendo el contexto y la pregunta que se quiere responder
-Recojo, limpio y estructuro los datos necesarios para el análisis
-Analizo el problema a nivel global y por segmentaciones relevantes
-Traduzco los resultados en insights claros y accionables para la toma de decisiones
+- Entiendo el contexto y la pregunta que se quiere responder
+- Recojo, limpio y estructuro los datos necesarios para el análisis
+- Analizo el problema a nivel global y por segmentaciones relevantes
+- Traduzco los resultados en insights claros y accionables para la toma de decisiones
 
 ## 💡 Qué aporto
 
