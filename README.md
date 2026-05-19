@@ -12,7 +12,7 @@ Soy analista de datos con formación en Psicología y especializada en People An
 
 Me interesa comprender no solo lo que muestran los datos, sino también el comportamiento humano que hay detrás de ellos. 
 
-Utilizo un enfoque estructurado y orientado a problema: primero entiendo el contexto, después preparo y analizo la información, y finalmente traduzco los hallazgos en acciones útiles para las personas y la organización.
+Trabajo con un enfoque estructurado y orientado a problema: primero entiendo el contexto, después preparo y analizo la información, y finalmente traduzco los hallazgos en acciones útiles para las personas y la organización.
 
 ### Mis puntos fuertes
 
