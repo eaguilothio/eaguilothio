@@ -34,7 +34,7 @@ Sigo un enfoque estructurado orientado a resolver problemas de negocio:
 
 ## 🛠️ Stack técnico
 
- Excel · Power BI · SQL (MySQL) · Python (Pandas)
+ Excel · Power BI · SQL (MySQL) · Python (Pandas) · API
 
 ---
 
