@@ -1,4 +1,4 @@
-# 👋 Soy Bet
+# Soy Bet
 
 ## Data Analyst · People Analytics  
 
@@ -6,7 +6,7 @@
 
 ---
 
-## 🔎 Sobre mí
+## Sobre mí
 
 Soy analista de datos con formación en Psicología y especializada en People Analytics.
 
@@ -14,7 +14,7 @@ Me interesa comprender no solo lo que muestran los datos, sino también el compo
 
 ---
 
-## 🧠 Cómo trabajo
+## Cómo trabajo
 
 Sigo un enfoque estructurado orientado a resolver problemas de negocio:
 
@@ -23,22 +23,22 @@ Sigo un enfoque estructurado orientado a resolver problemas de negocio:
 - Analizo el problema a nivel global y por segmentaciones relevantes
 - Traduzco los resultados en insights claros y accionables para la toma de decisiones
 
-## 💡 Qué aporto
+## Qué aporto
 
-- 🧠 Formación en Psicología aplicada al análisis del comportamiento en entornos organizacionales
-- 👥 Enfoque en People Analytics con experiencia en proyectos orientados a RRHH
-- 📊 Trabajo con el dato end-to-end (desde la exploración hasta el análisis y visualización) 
-- 📈 Stack técnico (demostrable a través de distintos proyectos)
+- Formación en Psicología aplicada al análisis del comportamiento en entornos organizacionales
+- Enfoque en People Analytics con experiencia en proyectos orientados a RRHH
+- Trabajo con el dato end-to-end (desde la exploración hasta el análisis y visualización) 
+- Stack técnico (demostrable a través de distintos proyectos)
 
 ---
 
-## 🛠️ Stack técnico
+## Stack técnico
 
  Excel · Power BI · SQL (MySQL) · Python (Pandas) · API
 
 ---
 
-## 📁 Proyectos
+## Proyectos
 
 Proyectos enfocados en People Analytics, con foco en problemas reales de RRHH.
 
