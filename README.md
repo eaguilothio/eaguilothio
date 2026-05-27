@@ -1,45 +1,28 @@
 # Soy Bet
-
-## Data Analyst · People Analytics  
-
+## Data Analyst · People Analytics
 🔗 [LinkedIn](https://www.linkedin.com/in/eaguilothio-data)
 
 ---
 
 ## Sobre mí
 
-Soy analista de datos con formación en Psicología y especializada en People Analytics.
+Analista de datos con formación en Psicología, especializada en People Analytics.
 
-Me interesa comprender no solo lo que muestran los datos, sino también el comportamiento humano que hay detrás de ellos.
-
----
-
-## Cómo trabajo
-
-Sigo un enfoque estructurado orientado a resolver problemas de negocio:
-
-- Entiendo el contexto y la pregunta que se quiere responder
-- Recojo, limpio y estructuro los datos necesarios para el análisis
-- Analizo el problema a nivel global y por segmentaciones relevantes
-- Traduzco los resultados en insights claros y accionables para la toma de decisiones
-
-## Qué aporto
-
-- Formación en Psicología aplicada al análisis del comportamiento en entornos organizacionales
-- Enfoque en People Analytics con experiencia en proyectos orientados a RRHH
-- Trabajo con el dato end-to-end (desde la exploración hasta el análisis y visualización) 
-- Stack técnico (demostrable a través de distintos proyectos)
+Me interesa comprender no solo lo que muestran los datos, sino el comportamiento humano que hay detrás de ellos.
 
 ---
 
 ## Stack técnico
 
- Excel · Power BI · SQL (MySQL) · Python (Pandas) · API
+Excel · Power BI · SQL (MySQL) · Python (Pandas)
 
 ---
 
 ## Proyectos
 
-Proyectos enfocados en People Analytics, con foco en problemas reales de RRHH.
-
----
+| Proyecto | Herramienta | Pregunta de negocio |
+|---|---|---|
+| [People Analytics — Hospital Universitari Nexeus](https://github.com/eaguilothio/hr-excel) | Excel | ¿Podemos anticipar qué empleados están en riesgo de irse? |
+| [People Analytics — ABC Corporation](https://github.com/eaguilothio/hr-python) | Python | ¿Qué factores explican que un empleado abandone la empresa? |
+| [People Analytics — IBM HR Analytics](https://github.com/eaguilothio/hr-powerbi) | Power BI | ¿Qué factores explican que un empleado abandone la empresa? |
+| [People Analytics — Hospital Analytics](https://github.com/eaguilothio/hr-sql) | SQL | ¿Qué departamento necesita contratación urgente? |
