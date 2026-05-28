@@ -1,5 +1,5 @@
 ## Soy Bet  
-Data Analyst enfocada en personas | People Analytics (empleados) & Customer Analytics (clientes)  
+Data Analyst | People & Customer Analytics
 🔗 [LinkedIn](https://www.linkedin.com/in/eaguilothio-data)
 
 ---
