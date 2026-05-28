@@ -20,12 +20,13 @@ Excel · Power BI · SQL (MySQL) · Python (Pandas)
 
 ## Mi trabajo
 
-| Proyecto                                                                                   | Herramienta            |
-| ------------------------------------------------------------------------------------------ | ---------------------- |
-| [People Analytics — Hospital Universitari Nexeus](https://github.com/eaguilothio/hr-excel) | Excel                  |
-| [People Analytics — IBM HR Analytics](https://github.com/eaguilothio/hr-powerbi)           | Power BI               |
-| [People Analytics — Hospital Analytics](https://github.com/eaguilothio/hr-sql)             | SQL                    |
-| [People Analytics — ABC Corporation](https://github.com/eaguilothio/hr-python)             | Python                 |
-| E-commerce Analytics — Olist                                                               | Python · SQL · Tableau |
+| Proyecto                                                                                    | Herramienta            |
+| ------------------------------------------------------------------------------------------- | ---------------------- |
+| [People Analytics — Hospital Universitari Nexeus](https://github.com/eaguilothio/hr-excel)  | Excel                  |
+| [People Analytics — IBM HR Analytics](https://github.com/eaguilothio/hr-powerbi)            | Power BI               |
+| [People Analytics — Hospital Analytics](https://github.com/eaguilothio/hr-sql)              | SQL                    |
+| [People Analytics — ABC Corporation](https://github.com/eaguilothio/hr-python)              | Python                 |
+| [E-commerce Analytics — Olist](https://github.com/eaguilothio/ecommerce-python-sql-tableau) | Python · SQL · Tableau |
+
 
 
