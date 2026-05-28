@@ -12,13 +12,17 @@ Me interesa entender no solo lo que muestran los datos, sino el comportamiento h
 
 ---
 
-## Stack técnico
+## Stack técnico y su utilidad
 
-Excel · Power BI · SQL (MySQL) · Python (Pandas)
+- Excel: exploración, limpieza y análisis básico de datos.
+- Python: automatiza la limpieza, transformación y análisis estadístico de los datos.
+- SQL: permite almacenar, consultar y estructurar la información de forma eficiente.
+- Power BI: creación de dashboards orientados a negocio
+- Tableau: creación de dashboards más flexibles en diseño visual
 
 ---
 
-## Mi trabajo
+## Mis mejores proyectos
 
 | Proyecto                                                                                    | Herramienta            |
 | ------------------------------------------------------------------------------------------- | ---------------------- |
