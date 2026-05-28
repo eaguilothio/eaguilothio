@@ -26,7 +26,7 @@ Excel · Power BI · SQL (MySQL) · Python (Pandas)
 | [People Analytics — IBM HR Analytics](https://github.com/eaguilothio/hr-powerbi)            | Power BI               |
 | [People Analytics — Hospital Analytics](https://github.com/eaguilothio/hr-sql)              | SQL                    |
 | [People Analytics — ABC Corporation](https://github.com/eaguilothio/hr-python)              | Python                 |
-| [E-commerce Analytics — Olist](https://github.com/eaguilothio/ecommerce-python-sql-tableau) | Python · SQL · Tableau |
+| [E-commerce Analytics — Olist](https://github.com/eaguilothio/ecommerce_python_sql_tableau) | Python · SQL · Tableau |
 
 
 
