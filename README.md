@@ -6,9 +6,9 @@
 
 ## Sobre mí
 
-Analista de datos con formación en Psicología e interés en People Analytics y Customer Analytics.
+Analista de datos con formación en Psicología.
 
-Me interesa comprender no solo lo que muestran los datos, sino el comportamiento humano que hay detrás de ellos.
+Me interesa entender no solo lo que muestran los datos, sino el comportamiento humano que hay detrás de ellos.
 
 ---
 
