@@ -6,7 +6,7 @@
 
 ## Sobre mí
 
-Analista de datos con formación en Psicología, especializada en People Analytics.
+Analista de datos con formación en Psicología e interés en People Analytics y Customer Analytics.
 
 Me interesa comprender no solo lo que muestran los datos, sino el comportamiento humano que hay detrás de ellos.
 
@@ -18,11 +18,14 @@ Excel · Power BI · SQL (MySQL) · Python (Pandas)
 
 ---
 
-## Proyectos
+## Mi trabajo
 
-| Proyecto | Herramienta | Pregunta de negocio |
-|---|---|---|
-| [People Analytics — Hospital Universitari Nexeus](https://github.com/eaguilothio/hr-excel) | Excel | ¿Podemos anticipar qué empleados están en riesgo de irse? |
-| [People Analytics — IBM HR Analytics](https://github.com/eaguilothio/hr-powerbi) | Power BI | ¿Qué factores explican que un empleado abandone la empresa? |
-| [People Analytics — Hospital Analytics](https://github.com/eaguilothio/hr-sql) | SQL | ¿Qué departamento necesita contratación urgente? |
-| [People Analytics — ABC Corporation](https://github.com/eaguilothio/hr-python) | Python | ¿Qué factores explican que un empleado abandone la empresa? |
+| Proyecto                                                                                   | Herramienta            |
+| ------------------------------------------------------------------------------------------ | ---------------------- |
+| [People Analytics — Hospital Universitari Nexeus](https://github.com/eaguilothio/hr-excel) | Excel                  |
+| [People Analytics — IBM HR Analytics](https://github.com/eaguilothio/hr-powerbi)           | Power BI               |
+| [People Analytics — Hospital Analytics](https://github.com/eaguilothio/hr-sql)             | SQL                    |
+| [People Analytics — ABC Corporation](https://github.com/eaguilothio/hr-python)             | Python                 |
+| E-commerce Analytics — Olist                                                               | Python · SQL · Tableau |
+
+
