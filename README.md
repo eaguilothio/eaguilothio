@@ -5,13 +5,14 @@ Data Analyst | People & Customer Analytics
 ---
 
 ## Sobre mí
-Analista de datos con formación en Psicología.
-Cuando analizo datos, no me quedo en el número — me interesan las personas que hay detrás.
+Analista de datos con formación en Psicología. 
+Cuando analizo datos, no me quedo en el número, me interesan las personas que hay detrás. 
 Ya sea en recursos humanos o en sectores donde el cliente está en el centro del negocio.
 
 ---
 
 ## Stack técnico
+Trabajo con diferentes herramientas según el proyecto: desde la exploración y la limpieza hasta la visualización de los insights.
 - **Excel:** exploración, limpieza y análisis básico de datos.
 - **Python:** automatiza la limpieza, transformación y análisis estadístico de los datos.
 - **SQL:** permite almacenar, consultar y estructurar la información de forma eficiente.
