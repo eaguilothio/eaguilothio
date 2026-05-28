@@ -6,8 +6,7 @@ Data Analyst | People & Customer Analytics
 
 ## Sobre mí
 - Analista de datos con formación en Psicología. 
-- Cuando analizo datos, no me quedo en el número, me interesan las personas que hay detrás. 
-- Ya sea en recursos humanos o en sectores donde el cliente está en el centro del negocio.
+- Cuando analizo datos, no me quedo en el número, me interesan las personas que hay detrás. Ya sea en recursos humanos o en sectores donde el cliente está en el centro del negocio.
 
 ---
 
