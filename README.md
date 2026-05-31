@@ -11,12 +11,11 @@ Data Analyst | People & Customer Analytics
 ---
 
 ## Stack técnico
-Trabajo con diferentes herramientas según el proyecto: desde la exploración y la limpieza hasta la visualización de los insights.
-- **Excel:** exploración, limpieza y análisis básico de datos.
-- **Python:** automatiza la limpieza, transformación y análisis estadístico de los datos.
-- **SQL:** permite almacenar, consultar y estructurar la información de forma eficiente.
-- **Power BI:** creación de dashboards orientados a negocio.
-- **Tableau:** creación de dashboards más flexibles en diseño visual.
+* Dominios: People Analytics · Customer Analytics
+* Análisis: SQL (consultas MySQL) · Excel (tablas dinámicas) · Python (Pandas, NumPy)
+* Visualización dinámica: Power BI (DAX) · Tableau
+* Visualización estática: Python (Matplotlib, Seaborn) · Excel (gráficos a partir de tablas dinámicas)
+* Entorno: VS Code · GitHub
 
 ---
 
