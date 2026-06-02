@@ -1,5 +1,5 @@
 # Bet Aguiló
-**Data Analyst | People & Customer Analytics**
+**Data Analyst | People & Customer Analytics| Psychology Background**
 [LinkedIn](https://www.linkedin.com/in/eaguilothio-data)
 
 ---
