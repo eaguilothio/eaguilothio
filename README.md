@@ -28,7 +28,7 @@ Ya sea en recursos humanos o en sectores donde el cliente está en el centro del
 
 ### 01 — IBM People Analytics · Power BI
 Dashboard para analizar la rotación de empleados e identificar los perfiles con mayor riesgo de abandono.
-Principales hallazgos: Principales factores de riesgo fueron: el rol, las horas extra, los viajes frecuentes y la baja antigüedad.
+Principales hallazgos: Los principales factores de riesgo fueron el rol, las horas extra, los viajes frecuentes y la baja antigüedad.
 [→ Ver proyecto](https://github.com/eaguilothio/hr-powerbi)
 
 ---
