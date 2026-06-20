@@ -37,7 +37,7 @@ Principales hallazgos: La variable con mayor impacto fueron las horas extra. La 
 
 ---
 
-### 04 — Plantilla Hospital · SQL (MySQL)
+### 04 — Plantilla Hospitalaria · SQL (MySQL)
 Determinar las necesidades de plantilla a través de indicadores de carga asistencial: volumen de pacientes, tasa de errores y horas extra.
 Principales hallazgos: El análisis señaló contratación urgente en Urgencias (mayor volumen de pacientes y tasa de errores) y prioritaria en UCI (acumulación de horas extra y riesgo de burnout).
 [→ Ver proyecto](https://github.com/eaguilothio/hr-sql)
