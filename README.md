@@ -5,10 +5,9 @@
 ---
 
 ## Sobre mí
-
-Analista de datos con formación en Psicología.
-Cuando analizo datos, no me quedo en el número: me interesan las personas que hay detrás.
-Ya sea en recursos humanos o en sectores donde el cliente está en el centro del negocio.
+Soy analista de datos con formación en Psicología. 
+Utilizo los datos para identificar patrones, obtener información relevante y apoyar la toma de decisiones. 
+Me interesan especialmente los proyectos donde el empleado y el cliente son el foco. 
 
 ---
 
