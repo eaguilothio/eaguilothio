@@ -5,15 +5,16 @@
 ---
 
 ## Sobre mí
-Soy analista de datos con formación en Psicología. 
-Utilizo los datos para identificar patrones, obtener información relevante y apoyar la toma de decisiones. 
-Me interesan especialmente los proyectos donde el empleado y el cliente son el foco. 
-Trabajo con diferentes herramientas según el proyecto: desde la exploración y la limpieza hasta la visualización de los insights.
-Si te interesan los datos aplicados a personas puedes ver mis proyectos aquí.
+- Soy analista de datos con formación en Psicología. 
+- Utilizo los datos para identificar patrones, obtener información relevante y apoyar la toma de decisiones. 
+- Me interesan especialmente los proyectos donde el empleado y el cliente son el foco. 
+- Trabajo con diferentes herramientas según el proyecto: desde la exploración y la limpieza hasta la visualización de los insights.
 
 ---
 
 ## Proyectos
+
+- Si te interesan los datos aplicados a personas puedes ver mis proyectos a continuación:
 
 ### 01 — IBM · Power BI
 Dashboard para analizar la rotación de empleados e identificar los perfiles con mayor riesgo de abandono.
