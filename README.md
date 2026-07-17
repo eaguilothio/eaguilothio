@@ -27,7 +27,7 @@ Me adapto a la herramienta que el proyecto necesita ( como Excel, SQL, Python o 
 
 ## Proyectos
 
-Estoy documentando mis proyectos con mayor profundidad — disponibles aquí próximamente, estructurados como proyectos completos.
+Disponibles aquí próximamente, estructurados como proyectos completos, de inicio a fin.
 
 Mientras tanto, en [LinkedIn](https://www.linkedin.com/in/eaguilothio-data) comparto cómo aplico distintas herramientas a problemas reales de negocio.
 
