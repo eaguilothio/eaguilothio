@@ -7,11 +7,7 @@
 
 ## Sobre mí
 
-Analista de datos con formación en Psicología. Combino ambas disciplinas para ir más allá del "qué" y entender el "por qué" detrás de los datos: qué motiva a un empleado a irse, qué lleva a un cliente a abandonar, qué comportamiento hay detrás de un patrón numérico.
-
-Trabajo especialmente con proyectos centrados en personas — empleados y clientes — donde el contexto humano importa tanto como los datos.
-
-Me adapto a la herramienta que el proyecto necesita ( como Excel, SQL, Python o Power BI/Tableau, entre otras) para la parte de exploración, análisis y visualización.
+Analista de datos con formación en Psicología. Combino ambas disciplinas para ir más allá del "qué" y entender el "por qué" detrás de los datos.
 
 ---
 
