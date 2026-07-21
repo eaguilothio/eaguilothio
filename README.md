@@ -13,11 +13,11 @@ Analista de datos con formación en Psicología. Combino ambas disciplinas para 
 
 ## Cómo trabajo
 
-1. **Parto de una pregunta de negocio real**, no de un dataset a explorar sin rumbo.
-2. **Identifico la variable que mejor responde a esa pregunta** y decido cómo calcularla cuando no existe directamente en los datos.
-3. **Contrasto hipótesis contra los datos**, incluso cuando el resultado contradice la intuición inicial.
-4. **Documento cada decisión** — de limpieza, de criterio, de threshold — para que el razonamiento se pueda auditar, no solo el resultado.
-5. **Cierro con una recomendación accionable**, no solo me quedo con lo que descubro.
+- Enfoque de Negocio: Parto de preguntas clave de relevancia, evitando explorar datasets sin rumbo fijo.
+- Definición de KPIs: Identifico y diseño los indicadores clave de rendimiento (KPIs) y métricas precisas que mejor responden a los objetivos estratégicos, calculándolos cuando no existen de forma directa en los datos.
+- Validación de Hipótesis: Contrasto hipótesis de manera rigurosa contra la evidencia empírica, manteniendo la objetividad incluso cuando los resultados contradicen la intuición inicial.
+- Trazabilidad y Documentación: Registro cada decisión metodológica para asegurar la justificación y transparencia en todas las fases del proceso.
+- Orientación a la Acción: Cierro cada análisis con recomendaciones estratégicas y accionables, transformando los hallazgos en valor real.
 
 ---
 
