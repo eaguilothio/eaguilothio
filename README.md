@@ -10,11 +10,11 @@
 
 Si algo se me da bien es **simplificar la complejidad**: trabajar con grandes volúmenes de información, filtrar el ruido y extraer lo esencial para entender **qué está pasando** y, sobre todo, **por qué**.
 
-Soy Data Analyst con formación en **Psicología** y actualmente estoy especializándome en **E-commerce** como área de negocio, profundizando en sus principales KPIs, dinámicas y métricas.
+Soy Data Analyst con formación en **Psicología**.
 
-Porque **saber utilizar una herramienta no te convierte en un buen analista**.
+Para mí, **saber utilizar una herramienta no te convierte en un buen analista**.
 
-Para mí, el análisis combina tres dimensiones:
+El análisis debe combinar tres dimensiones:
 
 → **Negocio:** entender los objetivos, los KPIs y el contexto para saber qué preguntas debemos responder y qué información es realmente relevante.
 
