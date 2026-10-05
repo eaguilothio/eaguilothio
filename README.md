@@ -1,6 +1,6 @@
 # Bet Aguiló
 
-**Data Analyst | Psychology Background | E-commerce**
+**Data Analyst | Psychology Background**
 
 [LinkedIn](https://www.linkedin.com/in/eaguilothio-data)
 
