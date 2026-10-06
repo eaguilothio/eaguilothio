@@ -8,9 +8,9 @@
 
 ## Sobre mí
 
-Si algo se me da bien es **simplificar la complejidad**: trabajar con grandes volúmenes de información, filtrar el ruido y extraer lo esencial para entender **qué está pasando** y, sobre todo, **por qué**.
-
 Soy Data Analyst con formación en **Psicología**.
+
+Si algo se me da bien es **simplificar la complejidad**: trabajar con grandes volúmenes de información, filtrar el ruido y extraer lo esencial para entender **qué está pasando** y, sobre todo, intentar entender el **por qué**.
 
 Para mí, **saber utilizar una herramienta no te convierte en un buen analista**.
 
