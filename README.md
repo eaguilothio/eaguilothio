@@ -8,23 +8,19 @@
 
 ## Sobre mí
 
-Soy Data Analyst con formación en **Psicología**.
+Soy Data Analyst con formación en **Psicología** e **IA**.
 
-Si algo se me da bien es **simplificar la complejidad**: trabajar con grandes volúmenes de información, filtrar el ruido y extraer lo esencial para entender **qué está pasando** y, sobre todo, intentar entender el **por qué**.
+Si algo se me da bien es **simplificar la complejidad**: trabajar con diferente información, filtrarla y extraer lo esencial para entender **qué está pasando**.
 
 Para mí, **saber utilizar una herramienta no te convierte en un buen analista**.
 
 El análisis debe combinar tres dimensiones:
 
-→ **Negocio:** entender los objetivos, los KPIs y el contexto para saber qué preguntas debemos responder y qué información es realmente relevante.
+→ **Negocio:** entender las principales problemáticas (rotación de personal, clientes que generan muchos ingresos pero también muchas devoluciones, productos con bajo rendimiento...) y definir qué preguntas debemos responder y qué información necesitamos para hacerlo.
 
 → **Datos y sistemas:** trabajar con los datos de principio a fin, desde su extracción y transformación hasta el análisis y la visualización. Me apoyo en herramientas como **SQL, Power BI, Python y Excel**, utilizando cada una según las necesidades del análisis.
 
-→ **Personas:** entender que detrás de los datos hay personas, comportamientos y decisiones, y que conocerlos nos ayuda a interpretar mejor la información y tomar mejores decisiones.
-
-Mi experiencia profesional más relevante ha sido en una **oficina de atención ciudadana del Ajuntament de Barcelona**, donde trabajaba con información de la ciudadanía y procesos de gestión. Elaboraba informes diarios para el seguimiento de incidencias, gestionaba información sensible y utilizaba diferentes sistemas de atención y registro para estructurar las necesidades de la ciudadanía.
-
-Esta experiencia me permitió trabajar con datos en un **contexto real**, entendiendo que detrás de cada registro hay una situación, una necesidad o un comportamiento que aporta contexto a los datos.
+→ **Personas:** entender que detrás de los datos hay personas, comportamientos y necesidades, y que analizarlos nos ayuda a comprender mejor qué está ocurriendo y por qué.
 
 ---
 
