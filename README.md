@@ -8,7 +8,7 @@
 
 ## Sobre mí
 
-Soy Data Analyst con formación en Datos ( Adalab), Psicología (UB) e IA ( Founderz).
+Soy Data Analyst con formación en **Datos** ( Adalab), **Psicología** (UB) e **IA** ( Founderz).
 
 Si algo se me da bien es **simplificar la complejidad**: trabajar con diferente información, filtrarla y extraer lo esencial para entender **qué está pasando**.
 
