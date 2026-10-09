@@ -26,9 +26,9 @@ El análisis debe combinar tres dimensiones:
 
 ## Proyectos
 
-Aquí encontrarás proyectos desarrollados **de principio a fin**, desde la exploración y preparación de los datos hasta el análisis, la visualización y las conclusiones.
+Aquí encontrarás proyectos desarrollados **de principio a fin**, desde la exploración y limpieza hasta el análisis y visualización. 
 
-Cada proyecto parte de un problema o pregunta de negocio y utiliza las herramientas y técnicas más adecuadas para resolverlo.
+Cada proyecto parte de un problema de negocio y utiliza las herramientas y técnicas más adecuadas para resolverlo.
 
 ---
 
